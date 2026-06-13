@@ -45,3 +45,4 @@ Mapped the complete Order-to-Cash (O2C) process as a **10-step, 16-actor Busines
 * **Process Modeling:** BPMN (Business Process Model and Notation)
 * **Data Processing:** Microsoft Excel
 * **Domain Expertise:** Sales Analytics, Order-to-Cash (O2C) Cycle, CRM Integration
+  
