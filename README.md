@@ -13,10 +13,10 @@ Mapped the complete Order-to-Cash (O2C) process as a **10-step, 16-actor Busines
 ### 🖼️ Core Screenshots
 *Below are the key interfaces of the 4-page specialized layout (stored inside the `/Screenshots` folder):*
 
-![Marketing Sales Overview](Screenshots/Dashboard%20Marketing%20Sales%20Overview.png)
-![Product Support Service](Screenshots/Dashboard%20Product%20Support%20Service.png)
-![Ship Building Performance](Screenshots/Dashboard%20Ship%20Building.png)
-![Ship Repair Analytics](Screenshots/Dashboard%20Ship%20Repair.png)
+![Marketing Sales Overview](Screenshots/Dashboard%Marketing%Sales%Overview.png)
+![Product Support Service](Screenshots/Dashboard%Product%Support%Service.png)
+![Ship Building Performance](Screenshots/Dashboard%Ship%Building.png)
+![Ship Repair Analytics](Screenshots/Dashboard%Ship%Repair.png)
 
 ### 🎥 Live Walkthrough Video
 *Watch the interactive video demonstration showing real-time cross-filtering, pipeline targets, and sales activities monitoring (stored inside the `/Demo` folder):*
