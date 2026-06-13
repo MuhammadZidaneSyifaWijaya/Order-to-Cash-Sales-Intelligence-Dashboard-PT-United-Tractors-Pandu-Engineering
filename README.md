@@ -27,8 +27,6 @@ Mapped the complete Order-to-Cash (O2C) process as a **10-step, 16-actor Busines
 🎥 **[Klik di sini untuk menonton Video Demo Interaktif Dashboard (via Google Drive)](TEMPEL_LINK_GDRIVE_ANDA_DISINI)**
 ---
 
-*Disclaimer: All raw operational data fields, exact financial values, customer identities, and corporate metrics have been fully masked, randomized, or generalized to strictly comply with corporate data privacy and non-disclosure agreements.*
-
 ## 🏗️ Data Architecture, Pipeline & Impact
 
 1. **⚙️ Data Cleansing & ETL Pipeline:** 
@@ -46,3 +44,4 @@ Mapped the complete Order-to-Cash (O2C) process as a **10-step, 16-actor Busines
 * **Data Processing:** Microsoft Excel
 * **Domain Expertise:** Sales Analytics, Order-to-Cash (O2C) Cycle, CRM Integration
   
+*Disclaimer: All raw operational data fields, exact financial values, customer identities, and corporate metrics have been fully masked, randomized, or generalized to strictly comply with corporate data privacy and non-disclosure agreements.*
