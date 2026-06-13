@@ -24,7 +24,7 @@ Mapped the complete Order-to-Cash (O2C) process as a **10-step, 16-actor Busines
 <video src="Demo/UT_Dashboard_Demo.mp4" controls="controls" style="max-width: 100%; display: block;"></video>
 
 ---
-🎥 **[Klik di sini untuk menonton Video Demo Interaktif Dashboard (via Google Drive)](TEMPEL_LINK_GDRIVE_ANDA_DISINI)**
+🎥 **[Klik di sini untuk menonton Video Demo Interaktif Dashboard (via Google Drive)](https://drive.google.com/file/d/1pfVoYI8BIOvbioXY8p8PF5azy2xmAy5T/view?usp=sharing)**
 ---
 
 ## 🏗️ Data Architecture, Pipeline & Impact
