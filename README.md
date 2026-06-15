@@ -12,6 +12,7 @@ Mapped the complete Order-to-Cash (O2C) process as a **10-step, 16-actor Busines
 
 ### 🖼️ Core Screenshots
 *Below are the key interfaces of the 4-page specialized layout (stored inside the `/Screenshots` folder):*
+*Disclaimer: All raw operational data fields, exact financial values, customer identities, and corporate metrics have been fully masked, randomized, or generalized to strictly comply with corporate data privacy and non-disclosure agreements.*
 
 ![Marketing Sales Overview](Screenshots/Dashboard%20Marketing%20Sales%20Overview.jpeg)
 ![Product Support Service](Screenshots/Dashboard%20Product%20Support%20Service.jpeg)
@@ -44,4 +45,3 @@ Mapped the complete Order-to-Cash (O2C) process as a **10-step, 16-actor Busines
 * **Data Processing:** Microsoft Excel
 * **Domain Expertise:** Sales Analytics, Order-to-Cash (O2C) Cycle, CRM Integration
   
-*Disclaimer: All raw operational data fields, exact financial values, customer identities, and corporate metrics have been fully masked, randomized, or generalized to strictly comply with corporate data privacy and non-disclosure agreements.*
